@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg_v</title>
+    <g id="bg_v" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="ProximaNova-Extrabld, Proxima Nova" font-size="60" font-weight="600">
+        <text id="Video" fill-rule="nonzero" fill="#FFFFFF">
+            <tspan x="107.87" y="321">VIDEO</tspan>
+        </text>
+        <text id="Video-Copy" fill-rule="nonzero" fill="#FFFFFF">
+            <tspan x="-92.13" y="118">VIDEO</tspan>
+        </text>
+        <text id="Video-Copy-2" fill-rule="nonzero" fill="#FFFFFF">
+            <tspan x="307.87" y="118">VIDEO</tspan>
+        </text>
+    </g>
+</svg>
